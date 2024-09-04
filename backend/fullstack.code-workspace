@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../VirtualDOM"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "VirtualDOM"
+  }
+}
